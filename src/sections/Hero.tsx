@@ -98,7 +98,7 @@ export const HeroSection = () => {
               transition={{ duration: 0.5, delay: 1.5 }}
             >
               <a
-                href="https://drive.google.com/file/d/1YTKFS3lWhf3XMP1qXAkZ288NnXUQ97H9/view?usp=sharing"
+                href="https://drive.google.com/file/d/1-146KnkbzsDCnVgGFKeeqdyTs-rHoJcI/view?usp=drivesdk"
                 className="  inline-block py-1 w-full sm:w-fit rounded-xl    text-white "
                 
                 target="_blank"
